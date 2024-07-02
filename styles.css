@@ -1,1 +1,43 @@
-/*  your css code here. If applicable */
+*{
+  margin:0px;
+  padding:0px;
+}
+
+#main-container{
+	width:400px;
+	height:600px;
+	background-color:rgb(240, 240, 240);
+	box-shadow:5px 5px 20px black;
+	margin-top: 100px;
+	margin-left:100px;
+	text-align:center;
+}
+
+#eg1{
+    padding-top:50px;
+}
+
+#eg2{
+	font-size:40px;
+}
+
+#eg3,#eg4{
+    font-size:30px;
+	margin-inline:15px
+	
+}
+
+#eg5{
+	margin:15px;
+    padding:14px;
+	background-color: red;
+	color:white;
+	border-radius:15px;
+	border:none;
+	font-size:30px;
+}
+
+
+
+
+
